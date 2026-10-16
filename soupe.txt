@@ -1,4 +1,8 @@
 glaude
 bombe
 denree
+<<<<<<< HEAD
 perniflardmoneau
+=======
+perniflardoxo
+>>>>>>> feature-c
